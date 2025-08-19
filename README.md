@@ -1,4 +1,5 @@
-# C++ Algorithms Practice
-![C++](https://img.shields.io/badge/C++-blue)
+# Leet Code Algorithms Practice
+![C++](https://img.shields.io/badge/C++-darkblue)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue)
 
-C++ solutions for leet code's top 150 interview problems.
+C++ and TypeScript solutions for Leet Code's top 150 interview problems.
